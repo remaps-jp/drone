@@ -12,5 +12,5 @@
 | [Mavic Mini Two-Way Charging Hub User Guide v1.0](https://github.com/remaps-jp/drone/blob/main/mavic_mini/manual/Mavic_Mini_Two-Way_Charging_Hub_User_Guide_v1.0_multi.pdf)  |  ー  |
 | [Mavic Mini Propellers User Guide v1.0](https://github.com/remaps-jp/drone/blob/main/mavic_mini/manual/Mavic_Mini_Propellers_User_Guide.pdf)  |  ー  |
 | [Mavic Mini 360° Propeller Guard User Guide v1.0](https://github.com/remaps-jp/drone/blob/main/mavic_mini/manual/Mavic_Mini_360%C2%B0_Propeller_Guard_User_Guide.pdf)  |  ー  |
-| [Mavic Mini ユーザーマニュアル v1.0](https://github.com/remaps-jp/drone/blob/main/mavic_mini/manual/Mavic_Mini_User_Manual_v1.0_JP1.pdf  |  ー  |
+| [Mavic Mini ユーザーマニュアル v1.0](https://github.com/remaps-jp/drone/blob/main/mavic_mini/manual/Mavic_Mini_User_Manual_v1.0_JP1.pdf)  |  ー  |
 | [Mavic Mini リリースノート](https://github.com/remaps-jp/drone/blob/main/mavic_mini/manual/Mavic_Mini_Release_Notes_jp.pdf)  |  ー  |
